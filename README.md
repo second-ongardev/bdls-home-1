@@ -1,6 +1,6 @@
 # bdls-home-1
 
-# fbx
+# material
 
 [fbx material download](https://drive.google.com/file/d/15jRcYf4Ww6rKsRgj0hI0CPjA0o4ztXNX/view?usp=share_link)
 
