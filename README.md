@@ -1,7 +1,5 @@
 # bdls-home-1
 
-# material
-
 [fbx download](https://drive.google.com/file/d/15jRcYf4Ww6rKsRgj0hI0CPjA0o4ztXNX/view?usp=share_link)
 
 [Unitypackage download](https://drive.google.com/file/d/1ByM18MpDBtWHYNf8nhOWwpNvQPfHfx5B/view?usp=share_link)
